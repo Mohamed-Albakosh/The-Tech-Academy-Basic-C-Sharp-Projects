@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\Comparison Program\Comparison Program\bin\Debug\Comparison Program.exe.config
+C:\Users\Mohamed\Desktop\C#\Comparison Program\Comparison Program\bin\Debug\Comparison Program.exe
+C:\Users\Mohamed\Desktop\C#\Comparison Program\Comparison Program\bin\Debug\Comparison Program.pdb
+C:\Users\Mohamed\Desktop\C#\Comparison Program\Comparison Program\obj\Debug\Comparison Program.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\Comparison Program\Comparison Program\obj\Debug\Comparison Program.exe
+C:\Users\Mohamed\Desktop\C#\Comparison Program\Comparison Program\obj\Debug\Comparison Program.pdb
