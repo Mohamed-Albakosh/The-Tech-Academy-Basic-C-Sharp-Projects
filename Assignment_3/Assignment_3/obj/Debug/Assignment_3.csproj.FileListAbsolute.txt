@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\Assignment_3\Assignment_3\bin\Debug\Assignment_3.exe.config
+C:\Users\Mohamed\Desktop\C#\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\Assignment_3\Assignment_3\bin\Debug\Assignment_3.exe
+C:\Users\Mohamed\Desktop\C#\Assignment_3\Assignment_3\bin\Debug\Assignment_3.pdb
+C:\Users\Mohamed\Desktop\C#\Assignment_3\Assignment_3\obj\Debug\Assignment_3.exe
+C:\Users\Mohamed\Desktop\C#\Assignment_3\Assignment_3\obj\Debug\Assignment_3.pdb
