@@ -15,8 +15,11 @@ namespace string_test
             string str_3= "Albakosh";
             string full_name = str_1 +" "+ str_2+" "+str_3 ;
             Console.WriteLine(full_name.ToUpper());
+            
+            StringBuilder st = new StringBuilder();
+            st.Append("MY name is"+full_name+" student of tech Academy");
+            Console.WriteLine(st);
             Console.Read();
-
         }
     }
 }
