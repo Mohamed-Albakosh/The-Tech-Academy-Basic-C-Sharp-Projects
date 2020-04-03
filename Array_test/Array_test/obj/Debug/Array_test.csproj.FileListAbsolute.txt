@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\Array_test\Array_test\bin\Debug\Array_test.exe.config
+C:\Users\Mohamed\Desktop\C#\Array_test\Array_test\bin\Debug\Array_test.exe
+C:\Users\Mohamed\Desktop\C#\Array_test\Array_test\bin\Debug\Array_test.pdb
+C:\Users\Mohamed\Desktop\C#\Array_test\Array_test\obj\Debug\Array_test.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\Array_test\Array_test\obj\Debug\Array_test.exe
+C:\Users\Mohamed\Desktop\C#\Array_test\Array_test\obj\Debug\Array_test.pdb
