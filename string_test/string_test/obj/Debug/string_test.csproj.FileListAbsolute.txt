@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\string_test\string_test\bin\Debug\string_test.exe.config
+C:\Users\Mohamed\Desktop\C#\string_test\string_test\bin\Debug\string_test.exe
+C:\Users\Mohamed\Desktop\C#\string_test\string_test\bin\Debug\string_test.pdb
+C:\Users\Mohamed\Desktop\C#\string_test\string_test\obj\Debug\string_test.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\string_test\string_test\obj\Debug\string_test.exe
+C:\Users\Mohamed\Desktop\C#\string_test\string_test\obj\Debug\string_test.pdb
