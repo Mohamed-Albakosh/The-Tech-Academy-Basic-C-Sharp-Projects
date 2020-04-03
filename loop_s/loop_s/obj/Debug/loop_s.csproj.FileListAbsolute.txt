@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\loop_s\loop_s\bin\Debug\loop_s.exe.config
+C:\Users\Mohamed\Desktop\C#\loop_s\loop_s\obj\Debug\loop_s.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\loop_s\loop_s\bin\Debug\loop_s.exe
+C:\Users\Mohamed\Desktop\C#\loop_s\loop_s\bin\Debug\loop_s.pdb
+C:\Users\Mohamed\Desktop\C#\loop_s\loop_s\obj\Debug\loop_s.exe
+C:\Users\Mohamed\Desktop\C#\loop_s\loop_s\obj\Debug\loop_s.pdb
