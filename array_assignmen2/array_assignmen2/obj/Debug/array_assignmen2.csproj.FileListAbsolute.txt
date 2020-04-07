@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\array_assignmen2\array_assignmen2\bin\Debug\array_assignmen2.exe.config
+C:\Users\Mohamed\Desktop\C#\array_assignmen2\array_assignmen2\bin\Debug\array_assignmen2.exe
+C:\Users\Mohamed\Desktop\C#\array_assignmen2\array_assignmen2\bin\Debug\array_assignmen2.pdb
+C:\Users\Mohamed\Desktop\C#\array_assignmen2\array_assignmen2\obj\Debug\array_assignmen2.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\array_assignmen2\array_assignmen2\obj\Debug\array_assignmen2.exe
+C:\Users\Mohamed\Desktop\C#\array_assignmen2\array_assignmen2\obj\Debug\array_assignmen2.pdb
