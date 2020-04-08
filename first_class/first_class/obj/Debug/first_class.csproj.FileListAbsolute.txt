@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\first_class\first_class\bin\Debug\first_class.exe.config
+C:\Users\Mohamed\Desktop\C#\first_class\first_class\bin\Debug\first_class.exe
+C:\Users\Mohamed\Desktop\C#\first_class\first_class\bin\Debug\first_class.pdb
+C:\Users\Mohamed\Desktop\C#\first_class\first_class\obj\Debug\first_class.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\first_class\first_class\obj\Debug\first_class.exe
+C:\Users\Mohamed\Desktop\C#\first_class\first_class\obj\Debug\first_class.pdb
