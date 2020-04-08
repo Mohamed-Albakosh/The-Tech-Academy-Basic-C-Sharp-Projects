@@ -104,12 +104,20 @@ namespace array_assignmen2
                     Console.WriteLine(item_2);
 
                 }
-                List<string> colors = new List<string>() { "white", "blue", "red", "black" };
+                List<string> colors = new List<string>() { "white", "blue", "red", "black" ,"red"};
+                List<string> colorsTemp = new List<string>();
                 foreach (string color in colors)
                 {
-                    Console.WriteLine(color+" >>>>has been visted");
-
+                    foreach (string element in colorsTemp)
+                    {
+                        if (color == element)
+                        {
+                            Console.WriteLine("The string " + color + " has appeared before");
+                        }
+                    }
+                    colorsTemp.Add(color);
                 }
+               
 
                 Console.ReadLine();
 
