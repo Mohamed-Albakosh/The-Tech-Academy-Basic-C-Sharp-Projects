@@ -8,8 +8,23 @@ namespace first_class
 {
     class MathClass
     {
-        public int first_number { get; set; }
-        public int second_number { get; set; }
-        public int third_number { get; set; }
+        public MathClass()
+        {
+            Number = 0;
+        }
+        public int Number { get; set; }
+
+        public int AddNumber()
+        {
+            return Number = Number + 2;
+        }
+        public int mult_Number()
+        {
+            return Number = Number * 2;
+        }
+        public int D_Number()
+        {
+            return Number = Number ^ 2;
+        }
     }
 }

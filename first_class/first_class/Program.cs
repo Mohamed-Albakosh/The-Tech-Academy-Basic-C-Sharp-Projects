@@ -11,14 +11,12 @@ namespace first_class
         static void Main(string[] args)
         {
             MathClass math = new MathClass();
-            Console.Write("enter the first number:");
-            math.first_number = Convert.ToInt32(Console.ReadLine());
-            Console.Write("enter the second number:");
-            math.second_number = Convert.ToInt32(Console.ReadLine());
-            Console.Write("enter the third number:");
-            math.third_number = Convert.ToInt32(Console.ReadLine());
-            int total = math.first_number + math.second_number + math.third_number;
-            Console.WriteLine(total);
+            Console.WriteLine("enter the number:");
+            math.Number = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine(math.AddNumber());
+            Console.WriteLine(math.mult_Number());
+            Console.WriteLine(math.D_Number());
             Console.ReadLine();
         }
     }
