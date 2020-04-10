@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\InheritClass\InheritClass\bin\Debug\InheritClass.exe.config
+C:\Users\Mohamed\Desktop\C#\InheritClass\InheritClass\bin\Debug\InheritClass.exe
+C:\Users\Mohamed\Desktop\C#\InheritClass\InheritClass\bin\Debug\InheritClass.pdb
+C:\Users\Mohamed\Desktop\C#\InheritClass\InheritClass\obj\Debug\InheritClass.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\InheritClass\InheritClass\obj\Debug\InheritClass.exe
+C:\Users\Mohamed\Desktop\C#\InheritClass\InheritClass\obj\Debug\InheritClass.pdb
