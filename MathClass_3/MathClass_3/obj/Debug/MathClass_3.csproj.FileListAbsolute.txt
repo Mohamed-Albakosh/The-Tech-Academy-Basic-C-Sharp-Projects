@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\MathClass_3\MathClass_3\bin\Debug\MathClass_3.exe.config
+C:\Users\Mohamed\Desktop\C#\MathClass_3\MathClass_3\obj\Debug\MathClass_3.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\MathClass_3\MathClass_3\bin\Debug\MathClass_3.exe
+C:\Users\Mohamed\Desktop\C#\MathClass_3\MathClass_3\bin\Debug\MathClass_3.pdb
+C:\Users\Mohamed\Desktop\C#\MathClass_3\MathClass_3\obj\Debug\MathClass_3.exe
+C:\Users\Mohamed\Desktop\C#\MathClass_3\MathClass_3\obj\Debug\MathClass_3.pdb
