@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\Math_Class_2\Math_Class_2\bin\Debug\Math_Class_2.exe.config
+C:\Users\Mohamed\Desktop\C#\Math_Class_2\Math_Class_2\obj\Debug\Math_Class_2.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\Math_Class_2\Math_Class_2\bin\Debug\Math_Class_2.exe
+C:\Users\Mohamed\Desktop\C#\Math_Class_2\Math_Class_2\bin\Debug\Math_Class_2.pdb
+C:\Users\Mohamed\Desktop\C#\Math_Class_2\Math_Class_2\obj\Debug\Math_Class_2.exe
+C:\Users\Mohamed\Desktop\C#\Math_Class_2\Math_Class_2\obj\Debug\Math_Class_2.pdb
