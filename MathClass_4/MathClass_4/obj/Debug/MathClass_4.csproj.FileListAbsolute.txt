@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\MathClass_4\MathClass_4\bin\Debug\MathClass_4.exe.config
+C:\Users\Mohamed\Desktop\C#\MathClass_4\MathClass_4\bin\Debug\MathClass_4.exe
+C:\Users\Mohamed\Desktop\C#\MathClass_4\MathClass_4\bin\Debug\MathClass_4.pdb
+C:\Users\Mohamed\Desktop\C#\MathClass_4\MathClass_4\obj\Debug\MathClass_4.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\MathClass_4\MathClass_4\obj\Debug\MathClass_4.exe
+C:\Users\Mohamed\Desktop\C#\MathClass_4\MathClass_4\obj\Debug\MathClass_4.pdb
