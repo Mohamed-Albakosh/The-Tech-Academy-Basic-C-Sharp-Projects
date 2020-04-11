@@ -11,13 +11,28 @@ namespace AbstractClass
         static void Main(string[] args)
         {
               Employee person = new Employee();
+                person.ID = 31;
               person.FirstName = "Sample";
               person.LastName = "Student";
                 person.SayName();
-            IQuittable iQ = new Employee();
-            iQ.Quit("Quit the game ");
+            Employee person_2 = new Employee();
+            person_2.ID = 41;
+            person_2.FirstName = "Mohamed";
+            person_2.LastName = "Student";
+            person_2.SayName();
+          if (  person == person_2)
+            {
+                Console.WriteLine(" they are equal");
+            }
+          else
+            {
+                Console.WriteLine(" they are not equal");
+            }
+           // IQuittable iQ = new Employee();
+          //  iQ.Quit("Quit the game ");
             
            
+
             Console.ReadLine();
         }
     }
