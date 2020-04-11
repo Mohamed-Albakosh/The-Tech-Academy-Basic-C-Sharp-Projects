@@ -6,13 +6,17 @@ using System.Threading.Tasks;
 
 namespace AbstractClass
 {
-    class Employee: Person
+    class Employee: Person, IQuittable
     {
 
         public override void SayName()
         {
-            Console.WriteLine("Name:[" + FirstName + " " + LastName + "]");
+            Console.Write("Name:[" + FirstName + " " + LastName + "]");
 
+        }
+        public void Quit(string name)
+        {
+            Console.Write(" ["+name+"]");
         }
     }
 }

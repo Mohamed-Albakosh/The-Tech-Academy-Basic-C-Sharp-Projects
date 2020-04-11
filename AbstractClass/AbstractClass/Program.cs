@@ -10,10 +10,14 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            Employee person = new Employee();
-            person.FirstName = "Sample";
-            person.LastName = "Student";
-            person.SayName();
+              Employee person = new Employee();
+              person.FirstName = "Sample";
+              person.LastName = "Student";
+                person.SayName();
+            IQuittable iQ = new Employee();
+            iQ.Quit("Quit the game ");
+            
+           
             Console.ReadLine();
         }
     }
