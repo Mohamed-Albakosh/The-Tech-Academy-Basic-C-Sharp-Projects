@@ -6,43 +6,44 @@ using System.Threading.Tasks;
 
 namespace AbstractClass
 {
-    class Employee: Person, IQuittable
+    class Employee<T>   //: Person,// IQuittable
     {
+        public List<T> things { get; set; }
         public int ID { get; set; }
-        public override void SayName()
-        {
-            Console.WriteLine("Name:[" + FirstName + " " + LastName + "]");
+      //  public override void SayName()
+      //  {
+       //     Console.WriteLine("Name:[" + FirstName + " " + LastName + "]");
 
-        }
-        public static bool operator== (Employee  id_1,Employee id_2)
-        {
-            if (id_1.ID == id_2.ID)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+       // }
+     //   public static bool operator== (Employee  id_1,Employee id_2)
+    //    {
+       //     if (id_1.ID == id_2.ID)
+          //  {
+             //   return true;
+         //   }
+          //  else
+         //   {
+          //      return false;
+          //  }
             
                 
          
-        }
-        public static bool operator !=(Employee id_1, Employee id_2)
-        {
+      //  }
+       // public static bool operator !=(Employee id_1, Employee id_2)
+      //  {
 
-            if (id_1.ID != id_2.ID)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
-        public void Quit(string name)
-        {
-            Console.WriteLine(" ["+name+"]");
-        }
+      //      if (id_1.ID != id_2.ID)
+      //      {
+      //          return true;
+    //        }
+      //      else
+       //     {
+       //         return false;
+       //     }
+      //  }
+      //  public void Quit(string name)
+      //  {
+      //      Console.WriteLine(" ["+name+"]");
+      //  }
     }
 }
