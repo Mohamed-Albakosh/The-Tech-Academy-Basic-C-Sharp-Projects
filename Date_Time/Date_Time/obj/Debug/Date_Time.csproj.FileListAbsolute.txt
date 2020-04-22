@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\Date_Time\Date_Time\bin\Debug\Date_Time.exe.config
+C:\Users\Mohamed\Desktop\C#\Date_Time\Date_Time\bin\Debug\Date_Time.exe
+C:\Users\Mohamed\Desktop\C#\Date_Time\Date_Time\bin\Debug\Date_Time.pdb
+C:\Users\Mohamed\Desktop\C#\Date_Time\Date_Time\obj\Debug\Date_Time.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\Date_Time\Date_Time\obj\Debug\Date_Time.exe
+C:\Users\Mohamed\Desktop\C#\Date_Time\Date_Time\obj\Debug\Date_Time.pdb
