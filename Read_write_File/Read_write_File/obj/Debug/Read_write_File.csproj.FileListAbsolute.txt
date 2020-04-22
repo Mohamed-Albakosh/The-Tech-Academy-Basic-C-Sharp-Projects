@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\Read_write_File\Read_write_File\bin\Debug\Read_write_File.exe.config
+C:\Users\Mohamed\Desktop\C#\Read_write_File\Read_write_File\bin\Debug\Read_write_File.exe
+C:\Users\Mohamed\Desktop\C#\Read_write_File\Read_write_File\bin\Debug\Read_write_File.pdb
+C:\Users\Mohamed\Desktop\C#\Read_write_File\Read_write_File\obj\Debug\Read_write_File.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\Read_write_File\Read_write_File\obj\Debug\Read_write_File.exe
+C:\Users\Mohamed\Desktop\C#\Read_write_File\Read_write_File\obj\Debug\Read_write_File.pdb
