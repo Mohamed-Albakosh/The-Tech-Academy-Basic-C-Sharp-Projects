@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\C#\Aexception\Aexception\bin\Debug\Aexception.exe.config
+C:\Users\Mohamed\Desktop\C#\Aexception\Aexception\obj\Debug\Aexception.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\C#\Aexception\Aexception\bin\Debug\Aexception.exe
+C:\Users\Mohamed\Desktop\C#\Aexception\Aexception\bin\Debug\Aexception.pdb
+C:\Users\Mohamed\Desktop\C#\Aexception\Aexception\obj\Debug\Aexception.exe
+C:\Users\Mohamed\Desktop\C#\Aexception\Aexception\obj\Debug\Aexception.pdb
